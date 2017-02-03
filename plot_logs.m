@@ -1,4 +1,4 @@
-clear all; clc; hold on;
+clear all; clc; hold on; close all;
 task_a = load('task-a.csv');
 task_b = load('task-b.csv');
 task_c = load('task-c.csv');
